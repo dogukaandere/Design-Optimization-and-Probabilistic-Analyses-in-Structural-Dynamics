@@ -62,12 +62,8 @@ Each folder contains:
 
 ## Prerequisites
 
-- MATLAB R2021b or later.
+
 - Optimization Toolbox for `fmincon`.
-
-## Acknowledgments
-
-This project was completed as part of the course *Design Optimization and Probabilistic Methods in Structural Mechanics* during the summer semester of 2021 under the supervision of Prof. Benedikt Kriegesmann at Hamburg University of Technology.
 
 ---
 
