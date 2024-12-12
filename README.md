@@ -6,9 +6,9 @@ This repository contains the MATLAB implementations and documentation for the pr
 
 ```
 Design-Optimization-and-Probabilistic-Analyses-in-Structural-Dynamics/
-├── Aufgabe 1 - Deterministic Optimization/
-├── Aufgabe 2 - Probabilistic Analysis/
-└── Aufgabe 3 - Robustness Optimization/
+├── Deterministic Optimization/
+├── Probabilistic Analysis/
+└── Robustness Optimization/
 ```
 
 ### Task Overview
@@ -45,29 +45,25 @@ Each folder contains:
 
 ### Folder Details
 
-1. **`Aufgabe 1 - Deterministic Optimization/`**
+1. **`Deterministic Optimization/`**
    - Contains MATLAB code for deterministic optimization.
    - Includes analytical and numerical validation of derivatives.
    - Reference and optimized designs are compared.
 
-2. **`Aufgabe 2 - Probabilistic Analysis/`**
+2. **`Probabilistic Analysis/`**
    - Implements Monte Carlo simulations and FOSM.
    - Tests various probability distributions using Kolmogorov-Smirnov.
    - Outputs statistical summaries and plots.
 
-3. **`Aufgabe 3 - Robustness Optimization/`**
+3. **`Robustness Optimization/`**
    - Integrates deterministic and probabilistic approaches.
    - Multi-objective optimization with weighting factors.
    - Final results compared to deterministic and probabilistic outcomes.
 
 ## Prerequisites
 
-- MATLAB R2021b or later.
+
 - Optimization Toolbox for `fmincon`.
-
-## Acknowledgments
-
-This project was completed as part of the course *Design Optimization and Probabilistic Methods in Structural Mechanics* during the summer semester of 2021 under the supervision of Prof. Benedikt Kriegesmann at Hamburg University of Technology.
 
 ---
 
