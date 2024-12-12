@@ -71,4 +71,4 @@ This project was completed as part of the course *Design Optimization and Probab
 
 ---
 
-For further questions or contributions, feel free to contact me via email: [dogukaan.dere@outlook.de](mailto:dogukaan.dere@outlook.de).
+For further questions or contributions, feel free to contact me via email: [dogukaan.dere@outlook.de](mailto:dogukaan.dere@outlook.de) or [dogukaan.dere@tuhh.de](mailto:dogukaan.dere@tuhh.de).
