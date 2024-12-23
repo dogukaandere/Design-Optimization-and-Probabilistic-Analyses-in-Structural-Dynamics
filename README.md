@@ -79,8 +79,8 @@ Each folder contains: / Jeder Ordner enthält:
 
 ## Contact / Kontakt
 For further questions or contributions, feel free to contact me via email: / Für weitere Fragen oder Beiträge können Sie mich per E-Mail kontaktieren:
-- dogukaan.dere@outlook.de
 - dogukaan.dere@tuhh.de
+- dogu-kaan.dere@outlook.com
 
 ---
 
